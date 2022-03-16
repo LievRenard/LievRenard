@@ -13,6 +13,12 @@ Grammar Reference of Lingua Commun Tier&auml;
 
 
 
-1) [Alphabet & Orthography](https://lievrenard.github.io/LievRenard/LCT/Alphabet&Orthography)
-2) [Noun & Adjective Declension](https://lievrenard.github.io/LievRenard/LCT/Noun&Adjective)
+1. [Orthography](https://lievrenard.github.io/LievRenard/LCT/Orthography&Pronunciation)
+
+   
+
+2. [Noun & Adjective Declension](https://lievrenard.github.io/LievRenard/LCT/Noun&Adjective)
+
+   
+
 3) [Verb Declension](https://lievrenard.github.io/LievRenard/LCT/Verb)
