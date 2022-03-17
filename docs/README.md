@@ -1,17 +1,8 @@
-# LievRenard Atelier
-
+# LievRenard Artificial Language References
 
 
 Work In Progress...
 
-
-
-
-
-## Artificial Language Grammar Reference
-
-
-
 <a href="https://lievrenard.github.io/LievRenard/LCT/Introduction">Lingua Commun Tier&auml;</a>
 
-<a href="https://lievrenard.github.io/LievRenard/Iripine/Introduction">Iripine (WIP)</a>
+<a href="https://lievrenard.github.io/LievRenard/Iripine/Alphabet">Iripine (WIP)</a>

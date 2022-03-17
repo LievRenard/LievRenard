@@ -9,7 +9,7 @@ Grammar Reference of Lingua Commun Tier&auml;
 
 
 
-## Contents
+## Index
 
 
 
