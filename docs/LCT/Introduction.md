@@ -21,4 +21,8 @@ Grammar Reference of Lingua Commun Tier&auml;
 
    
 
-3) [Verb Declension](https://lievrenard.github.io/LievRenard/LCT/Verb)
+3. [Pronoun](https://lievrenard.github.io/LievRenard/LCT/Pronoun)
+
+   
+
+4. [Verb Declension](https://lievrenard.github.io/LievRenard/LCT/Verb)
