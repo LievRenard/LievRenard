@@ -28,12 +28,12 @@
 
 
 
-|   이것    |  f.  |  m.  |  n.  |  pl.  |
-| :-------: | :--: | :--: | :--: | :---: |
-|   Nom.    | hic  | hic  | hoc  |  hec  |
-|   Gen.    | huie | huie | huie | heren |
-| Dat. Abl. | hac  | hoc  | hoc  |  his  |
-|   Acc.    | hanc | henc | henc |  hes  |
+|   이것    |   f.   |  m.   |  n.  |  pl.  |
+| :-------: | :----: | :---: | :--: | :---: |
+|   Nom.    |  hac   | *hic* | hoc  | *hec* |
+|   Gen.    |  hie   |  hie  | hie  | heren |
+| Dat. Abl. |  hac   |  hoc  | hoc  |  his  |
+|   Acc.    | *hanc* | henc  | henc |  hes  |
 
 
 
@@ -55,7 +55,7 @@
 
 
 
-ille는 화자와 청자 둘 다에게 먼 것을 지칭할 때, iste는 화자에게 멀고 청자에게 가까운 것을 지칭할 때 쓰인다.
+*ille는 화자와 청자 둘 다에게 먼 것을 지칭할 때, iste는 화자에게 멀고 청자에게 가까운 것을 지칭할 때 쓰인다.
 
 
 
@@ -69,50 +69,21 @@ ille는 화자와 청자 둘 다에게 먼 것을 지칭할 때, iste는 화자�
 
 
 
-|           |  f.  |  m.  |  n.  | pl.  |
-| :-------: | :--: | :--: | :--: | :--: |
-|   Nom.    | quis | quis | quid | qui  |
-| Gen. Dat. | cui  | cui  | cui  | quis |
-| Acc. Abl. | qua  | quo  | quo  | que  |
-
-
-
-### Quote (어느 것, 몇 번째)
-
-
-
-|           |     f.     |   m.   |   n.   |   pl.    |
-| :-------: | :--------: | :----: | :----: | :------: |
-|   Nom.    |   quota    | quote  | quoten |  quotes  |
-|   Gen.    | quot&auml; | quoti  | quoti  | quoteren |
-| Dat. Abl. |   quota    | quoto  | quoto  |  quotis  |
-|   Acc.    |   quotam   | quoten | quoten |  quotes  |
+|           |    f.    |    m.    |    n.    | pl.  |
+| :-------: | :------: | :------: | :------: | :--: |
+|   Nom.    |   quis   |   quis   |   quid   | qui  |
+| Gen. Dat. | c&uuml;i | c&uuml;i | c&uuml;i | quis |
+| Acc. Abl. |   qua    |   quo    |   quo    | que  |
 
 
 
 ### Quante (얼마나, 얼마나 큰)
 
+**형용사처럼 변화한다*
 
-
-|           |     f.      |   m.    |   n.    |    pl.    |
-| :-------: | :---------: | :-----: | :-----: | :-------: |
-|   Nom.    |   quanta    | quante  | quanten |  quantes  |
-|   Gen.    | quant&auml; | quanti  | quanti  | quanteren |
-| Dat. Abl. |   quanta    | quanto  | quanto  |  quantis  |
-|   Acc.    |   quantam   | quanten | quanten |  quantes  |
-
-
-
-### Qualis (어떠한)
-
-
-
-|           |  sg.   |   pl.   |
-| :-------: | :----: | :-----: |
-|   Nom.    | qualis | quales  |
-|   Gen.    | qualis | qualien |
-| Dat. Abl. | quali  | qualis  |
-|   Acc.    | qualen | quales  |
+- quante - 얼마나?, 얼마나 많이? (1, 2, 4형 형용사)
+- quote - 어떤 것? 어느 것? (1, 2, 4형 형용사)
+- qualis - 어떠한? (3형 형용사)
 
 
 
