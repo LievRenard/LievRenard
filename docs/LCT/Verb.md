@@ -31,18 +31,12 @@
 
 
 
-|         | 1p. Ind. | 2,3p. Ind. | 1p. Sub. | 2,3p. Sub. |
-| :-----: | :------: | :--------: | :------: | :--------: |
-| Present |   -o*    |     -t     |   -me    |     -t     |
-| Perfect |   -vi    |    -vit    |  -verme  |   -verit   |
+|           | 1p. Ind. | 2,3p. Ind. | 1p. Sub. | 2,3p. Sub. |
+| :-------: | :------: | :--------: | :------: | :--------: |
+|  Present  |   -o*    |     -t     |    -n    |     -t     |
+| Imperfect |   -ban   |    -bat    |   -ren   |    -ret    |
 
  *직설법 1인칭 어미의 경우 1형 변화에서는 모음 어간 -a를 떼고 -o를 붙인다.
-
-
-
-현재완료를 제외한 다른 완료 시제의 경우 habere + 과거분사의 형태를 사용하여 만든다. 어떤 이들은 현재완료의 경우에도 이 형태를 쓰기도 한다.
-
-수동태의 경우는 essere + 과거분사를 사용한다.
 
 
 
@@ -68,6 +62,52 @@
 
 
 
+## 이태동사
+
+이태동사는 자동사인데 라틴어 수동태처럼 변화하는 동사들을 말한다. 이태동사의 부정사형은 -re가 아니라 -ri로 끝난다.
+
+
+
+### 직설법과 접속법
+
+|           | 1p. Ind. | 2,3p. Ind. | 1p. Sub. | 2,3p. Sub. |
+| :-------: | :------: | :--------: | :------: | :--------: |
+|  Present  |   -or*   |    -ter    |    -r    |    -ter    |
+| Imperfect |   -bar   |   -bater   |   -rer   |   -reter   |
+
+
+
+### 명령법
+
+| 2p. sg. | 2p. pl. | 3p.  |
+| :-----: | :-----: | :--: |
+|   -re   |  -mini  | -tor |
+
+
+
+분사의 변화형은 일반적인 동사와 같다.
+
+
+
+## 시제와 태
+
+
+
+현재와 반과거를 제외한 다른 시제들은 조동사를 이용해서 만든다.
+
+
+
+- 과거(=현재완료) - habere/essere + p.p. (대부분은 habere, 진행/변화와 관련된 몇몇 동사는 essere)
+- 미래 - ire + inf. (하지만 대부분 현재형으로 미래를 나타낸다.)
+- 과거완료 - habere/essere 반과거형 + p.p.
+- 미래완료 - vellere + habere/essere + p.p.
+
+
+
+수동태의 경우 essere + p.p.의 형태로 만든다. 수동태의 행위 주체는 전치사 a + 탈격으로 나타낸다.
+
+
+
 ## 불규칙 동사 변화
 
 
@@ -76,17 +116,21 @@
 
 
 
-|          | 1p. Present | 2,3p. Present | 1p. Perfect | Sub. Root. | present p. |  p.p.   |
-| :------: | :---------: | :-----------: | :---------: | :--------: | :--------: | :-----: |
-|  essere  |     sen     |      est      |    ervi     |    er-     |   erans    |   fi    |
-|   fore   |     sin     |      sit      |   fuervi    |    for-    |  futurens  |   fi    |
-| vellere  |    volo     |     volt      |  vol&uuml;  |   vele-    |   volens   |  voli   |
-|  ducere  |    duco     |     ducit     |    dussi    |   duce-    |   ducens   | ductus  |
-| possere  |   possen    |    potest     |  pot&uuml;  |   possi-   |   potens   |  potus  |
-|  debere  |    debeo    |     debet     |  deb&uuml;  |   debe-    |   debens   | debitus |
-| oportere |   oporto    |    oportet    | oport&uuml; |  oportea-  |  oportens  | oportus |
+|          | 1p. Present | 2,3p. Present | 1p. Imperfect | Sub. Root. | present p. |  p.p.   |
+| :------: | :---------: | :-----------: | :-----------: | :--------: | :--------: | :-----: |
+|  essere  |     sen     |      est      |     eran      |    for-    |   essens   |   fui   |
+|   fore   |     sin     |      sit      |     foren     |     -      |  futurens  |  fueri  |
+| vellere  |    volo     |     volt      |  vol&uuml;*   |   vele-    |   volens   |  voli   |
+|  ducere  |    duco     |     ducit     |    dussi*     |   duce-    |   ducens   | ductus  |
+| possere  |   possen    |    potest     |  pot&uuml;*   |   possi-   |   potens   |  potus  |
+|  debere  |    debeo    |     debet     |  deb&uuml;*   |   debe-    |   debens   | debitus |
+| oportere |   oporto    |    oportet    | oport&uuml;*  |  oportea-  |  oportens  | oportus |
 
-직설법 완료형 2,3인칭의 경우는 1인칭에서 t만 붙이면 된다. 접속법은 표에 나온 접속법 어간에 접속법 어미들을 붙인다. 명령형의 경우 조동사들은 명령형이 존재하지 않는다.
+*이 동사들은 반과거형 대신 완료형을 쓰는 동사들이다. 2,3 인칭은 t만 붙인다.
+
+
+
+직설법 반과거 2,3인칭의 경우는 1인칭의 n을 t로 바꾸면 된다. 접속법은 표에 나온 접속법 어간에 접속법 어미들을 붙인다. 명령형의 경우 조동사들은 명령형이 존재하지 않는다.
 
 
 
