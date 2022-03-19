@@ -21,12 +21,8 @@ Grammar Reference of Lingua Commun Tier&auml;
 
    
 
-<<<<<<< HEAD
 3. [Pronoun](https://lievrenard.github.io/LievRenard/LCT/Pronoun)
 
    
 
-4. [Verb Declension](https://lievrenard.github.io/LievRenard/LCT/Verb)
-=======
 3. [Verb Declension](https://lievrenard.github.io/LievRenard/LCT/Verb)
->>>>>>> d40aaa19c5a290e33c600e41e626f0e76919239f
