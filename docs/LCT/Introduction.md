@@ -25,4 +25,8 @@ Grammar Reference of Lingua Commun Tier&auml;
 
    
 
-3. [Verb Declension](https://lievrenard.github.io/LievRenard/LCT/Verb)
+4. [Verb Declension](https://lievrenard.github.io/LievRenard/LCT/Verb)
+
+   
+
+3. [Irregular Verbs](https://lievrenard.github.io/LievRenard/LCT/Irregular)
