@@ -9,8 +9,8 @@
 |           | 1st. sg. | 2nd. sg. |   3rd. sg.   | 1st. pl. | 2nd. pl. | 3rd. pl. |
 | :-------: | :------: | :------: | :----------: | :------: | :------: | :------: |
 |   Nom.    |   ego    |    tu    | is / ea / id |   nos    |   vos    |    ei    |
-| Gen. Dat. |    mi    |    ti    |      *       |  nostri  |  vostri  |    *     |
-| Acc. Abl. |    me    |    te    |      *       |   nos    |   vos    |    *     |
+| Gen. Dat. |    mi    |    ti    |      li      |  nostri  |  vostri  |   lis    |
+| Acc. Abl. |    me    |    te    | lo / la / lo |   nos    |   vos    |   lis    |
 
 *3인칭의 주격을 제외한 다른 격들은 위의 표의 격 구분을 따르지 않고 정관사와 같은 형태를 가진다.
 
@@ -28,12 +28,12 @@
 
 
 
-|   이것    |   f.   |  m.   |  n.  |  pl.  |
-| :-------: | :----: | :---: | :--: | :---: |
-|   Nom.    |  hac   | *hic* | hoc  | *hec* |
-|   Gen.    |  hie   |  hie  | hie  | heren |
-| Dat. Abl. |  hac   |  hoc  | hoc  |  his  |
-|   Acc.    | *hanc* | henc  | henc |  hes  |
+|   이것    |   f.   |  m.   |  n.   |  pl.  |
+| :-------: | :----: | :---: | :---: | :---: |
+|   Nom.    |  hac   | *hic* | *hoc* | *hec* |
+|   Gen.    |  hie   |  hie  |  hie  | heren |
+| Dat. Abl. |  hac   |  hoc  |  hoc  |  his  |
+|   Acc.    | *hanc* | henc  | henc  |  hes  |
 
 
 

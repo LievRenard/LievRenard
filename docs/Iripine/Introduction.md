@@ -17,5 +17,15 @@
 
 
 1. [Characters](https://lievrenard.github.io/LievRenard/Iripine/Alphabet)
+
+   
+
 2. [Latin Transliteration](https://lievrenard.github.io/LievRenard/Iripine/Transliteration)
-2. [Noun Declension](https://lievrenard.github.io/LievRenard/Iripine/Noun)
+
+   
+
+3. [Noun Declension](https://lievrenard.github.io/LievRenard/Iripine/Noun)
+
+   
+
+2. [Verb - Present](https://lievrenard.github.io/LievRenard/Iripine/Present)
