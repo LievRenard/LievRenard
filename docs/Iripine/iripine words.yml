@@ -1,0 +1,81 @@
+- nubugusilik:
+  - class: n.
+    mean: 
+    - building
+    - architecture
+- ilu:
+  - class: n.
+    mean:
+    - house
+    derivedTerm:
+    - kamakilu
+    - ilualuk
+    - maiilu
+- insula:
+  - etymology: La. insula(island, ancient roman appartment)
+    class: n.
+    mean: apartment
+- naasurisarpik:
+  - etymology: naasurisaqa(to farm) + -vik(place to do)
+    class: n.
+    mean: farm
+- naasurisaqa:
+  - class: v.
+    mean: 
+      - to farm
+      - to cultivate
+    derivedTerm:
+      - naasurisarpik
+- matamiqarpik:
+  - etymology: matamik(grain, corn) + -qarpik(place something stored)
+    class: n.
+    mean:
+      - barn
+      - grain container(storage)
+      - warehouse
+- matamik:
+  - class: n.
+    mean:
+      - grain
+      - corn
+      - meal
+    synonym:
+      - alittaibik
+    derivedTerm:
+      - matamiqarpik
+- maiilu:
+  - etymology: maii(sheep) + ilu(house)
+    class: n.
+    mean:
+      - barn
+- maii:
+  - class: n.
+    mean:
+      - sheep
+    derivedTerm:
+      - maiilu
+      - maiibinik
+- basiliki:
+  - etymology: La. basilice(cathedral)
+    class: n.
+    mean:
+      - cathedral
+    synonym:
+      - katitalaq
+- katitalak:
+  - etymology: Rm. catedrala(cathedral)
+    class: n.
+    mean:
+      - cathedral
+    synonym:
+      - basiliki
+- WIP: |
+  factory - Qipirsukkut (qipirsuq - wood carver)
+  school - Iliniarpik / Atuarpik
+  university - Unibersitat (Rm.)
+  hospital - Katsursarvik (katsursaqa - to heal)
+  shop - Niubippik
+  market - Aullaikik / Agura (Gr.) / Turku (Sl.)
+  castle - Kamakilu (kamak - stone + ilu - house) 
+  mansion - Ilualuk (ilu - house + -aluk - big) / buritsuk (Sl.)
+  townhall - Ilualuk
