@@ -25,3 +25,17 @@
    
 
 2. [Verb - Present](https://lievrenard.github.io/LievRenard/Iripine/Present)
+
+
+
+
+
+## Qitsualuntun
+
+
+
+1. [Alphabet](https://lievrenard.github.io/LievRenard/Iripine/Qitsualuntun/Alphabet)
+
+   
+
+2. [Noun Declension](https://lievrenard.github.io/LievRenard/Iripine/Qitsualuntun/Noun)
