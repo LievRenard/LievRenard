@@ -51,7 +51,7 @@ ex) siku (얼음)
 | Abs. Acc. Erg. |      -       |      -       |      -       |
 |      Dat.      |  -&#7769;-t  |  -&#7769;-t  | -m-m&#7769;t |
 |      Gen.      |  -#-&#7769;  |  -#-&#7769;  |      -n      |
-|      Loc.      | -#-&scaron;a | -#-&scaron;a |  -&zcaron;a  |
+|      Loc.      | -#-&scaron;a | -#-&scaron;a |     -ža      |
 |      Abl.      |    -#-ta     | -&#7769;-ta  |     -nta     |
 |      Pro.      |     -kuu     |     -ruu     |     -nuu     |
 |      Equ.      |    -#-tun    | -&#7769;-tun |    -ntun     |
@@ -72,7 +72,7 @@ ex) sitar (오래된, 낡은)
 
 ex) anglijatun (영어)
 
-→ anglijatun / anglijatumm&#7769;t / anglijatunn / anglijatun&zcaron;a / anglijatunnta / anglijatunnuu / anglijatunntun
+→ anglijatun / anglijatumm&#7769;t / anglijatunn / anglijatunža / anglijatunnta / anglijatunnuu / anglijatunntun
 
 
 

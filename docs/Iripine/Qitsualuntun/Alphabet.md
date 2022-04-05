@@ -14,33 +14,33 @@ Qitsualuntun 방언은 고전 이리프어(Saniallautun)와는 달리 라틴 문
 
 
 
-|      Char.       |           Pronunciation           |
-| :--------------: | :-------------------------------: |
-|        Aa        |                /ɐ/                |
-|        Bb        |                /b/                |
-|        Cc        |               /t͡s/                |
-| &Ccaron;&ccaron; |               /t͡ʂ/                |
-|        Dd        |                /d/                |
-|        Ee        |                /e̞/                |
-|        Ff        |                /f/                |
-|        Gg        |           /ɢ/, /R/(gr)            |
-|        Hh        |                /h/                |
-|        Ii        |                /ɪ/                |
-|        Jj        |                /j/                |
-|        Kk        |                /q/                |
-|        Ll        |           /l/, /ʟ/(ll)            |
-|        Mm        |                /m/                |
-|        Nn        | /n/, /ŋ/(ng, n&zcaron;에서 n, nn) |
-|        Oo        |                /o/                |
-|        Pp        |                /p/                |
-|        Qq        |                /q/                |
-|        Rr        |       /R/, /R̩/, /r/(외래어)       |
-|  &#7768;&#7769;  |             /ʕ̞/, /ɑ/              |
-|        Ss        |                /s/                |
-| &Scaron;&scaron; |                /ʂ/                |
-|        Tt        |           /t/, /t͡ɬ/(tl)           |
-|        Uu        |                /ʊ/                |
-|        Vv        |                /v/                |
-|        Zz        |                /z/                |
-| &Zcaron;&zcaron; |                /ʐ/                |
+|      Char.       |          Name          |           Pronunciation           |
+| :--------------: | :--------------------: | :-------------------------------: |
+|        Aa        |           A            |                /ɐ/                |
+|        Bb        |           Be           |                /b/                |
+|        Cc        |     &#7768;akin če     |               /t͡s/                |
+|        Čč        |           Če           |               /t͡ʂ/                |
+|        Dd        |           De           |                /d/                |
+|        Ee        |           E            |                /e̞/                |
+|        Ff        |          Efe           |                /f/                |
+|        Gg        |           Ge           |           /ɢ/, /R/(gr)            |
+|        Hh        |           Ha           |                /h/                |
+|        Ii        |           I            |                /ɪ/                |
+|        Jj        |           Je           |                /j/                |
+|        Kk        |           Ka           |                /q/                |
+|        Ll        |          Ele           |           /l/, /ʟ/(ll)            |
+|        Mm        |          Eme           |                /m/                |
+|        Nn        |           En           | /n/, /ŋ/(ng, n&zcaron;에서 n, nn) |
+|        Oo        |           O            |                /o/                |
+|        Pp        |           Pe           |                /p/                |
+|        Qq        |        Sani qa         |                /q/                |
+|        Rr        |           Er           |       /R/, /R̩/, /r/(외래어)       |
+|  &#7768;&#7769;  |        &#7768;a        |             /ʕ̞/, /ɑ/              |
+|        Ss        | &#7768;akin e&scaron;e |                /s/                |
+| &Scaron;&scaron; |       E&scaron;e       |                /ʂ/                |
+|        Tt        |           Te           |           /t/, /t͡ɬ/(tl)           |
+|        Uu        |           U            |                /ʊ/                |
+|        Vv        |           Ve           |         /v/, /w/(외래어)          |
+|        Zz        |     &#7768;akin že     |                /z/                |
+|        Žž        |           Že           |                /ʐ/                |
 
