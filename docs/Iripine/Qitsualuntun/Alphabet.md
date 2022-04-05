@@ -1,4 +1,4 @@
-# Qitsualuntun Alphabet (Ki&ccaron;ralunntun Abeceda)
+# Qitsualuntun Alphabet (Kičralunntun Abeceda)
 
 
 
