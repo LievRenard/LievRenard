@@ -30,7 +30,7 @@ Qitsualuntun 방언은 고전 이리프어(Saniallautun)와는 달리 라틴 문
 |        Kk        |           Ka           |                /q/                |
 |        Ll        |          Ele           |           /l/, /ʟ/(ll)            |
 |        Mm        |          Eme           |                /m/                |
-|        Nn        |           En           | /n/, /ŋ/(ng, n&zcaron;에서 n, nn) |
+|        Nn        |           En           | /n/, /ŋ/(ng, nž에서 n, nn) |
 |        Oo        |           O            |                /o/                |
 |        Pp        |           Pe           |                /p/                |
 |        Qq        |        Sani qa         |                /q/                |
