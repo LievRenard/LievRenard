@@ -39,3 +39,7 @@
    
 
 2. [Noun Declension](https://lievrenard.github.io/LievRenard/Iripine/Qitsualuntun/Noun)
+
+   
+
+2. [Verb - Present](https://lievrenard.github.io/LievRenard/Iripine/Qitsualuntun/Present)
