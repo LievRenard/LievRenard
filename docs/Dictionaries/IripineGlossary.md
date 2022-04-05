@@ -62,3 +62,22 @@
 | calf (body) |  nakasunkak  | nakasunnkak  |       |
 |    foot     |    itugak    |    itrgak    |       |
 
+
+
+### Animals
+
+|   Meaning    | Saniallautun | Qitsualuntun | Note. |
+| :----------: | :----------: | :----------: | :---: |
+|     deer     |    tuntu     | t&#7769;nntu |       |
+|     swan     |    qujuk     |    krjuk     |       |
+|    goose     |    lukkiq    | l&#7769;kkik |       |
+| killer whale |    aalluk    | &#7769;alluk |       |
+|   squirrel   |    siksik    |    siksik    |       |
+|     duck     |  akkanguliq  |  akkannulek  |       |
+|    whale     |    arpuq     |    arvuk     |       |
+|     dog      |    qimiq     |    kimik     |       |
+|     fish     |   ikkaluk    |   ikkaluk    |       |
+|     cat      |    qitsuk    |    kičuk     |       |
+|     cow      |     buu      |     vuu      |  Gr.  |
+|     cow      |   tuttubak   |      -       |       |
+
