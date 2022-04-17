@@ -18,7 +18,7 @@ Qitsualuntun 방언은 고전 이리프어(Saniallautun)와는 달리 라틴 문
 | :--------------: | :--------------------: | :-------------------------------: |
 |        Aa        |           A            |                /ɐ/                |
 |        Bb        |           Be           |                /b/                |
-|        Cc        |     &#7768;akin če     |               /t͡s/                |
+|        Cc        |     Ṙakin če     |               /t͡s/                |
 |        Čč        |           Če           |               /t͡ʂ/                |
 |        Dd        |           De           |                /d/                |
 |        Ee        |           E            |                /e̞/                |
@@ -36,7 +36,7 @@ Qitsualuntun 방언은 고전 이리프어(Saniallautun)와는 달리 라틴 문
 |        Qq        |        Sani qa         |                /q/                |
 |        Rr        |           Er           |       /R/, /R̩/, /r/(외래어)       |
 |  &#7768;&#7769;  |        &#7768;a        |             /ʕ̞/, /ɑ/              |
-|        Ss        | &#7768;akin e&scaron;e |                /s/                |
+|        Ss        | Ese |                /s/                |
 | &Scaron;&scaron; |       E&scaron;e       |                /ʂ/                |
 |        Tt        |           Te           |           /t/, /t͡ɬ/(tl)           |
 |        Uu        |           U            |                /ʊ/                |
