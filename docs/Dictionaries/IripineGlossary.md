@@ -58,7 +58,7 @@
 | fingernail  |    kikaa     |    kikaa     |       |
 |    belly    |    akija     |    akija     |       |
 |    navel    |  qattalluq   |  katlalluk   |       |
-|    knee     |   Thigukku   |   čigrkku    |       |
+|    knee     |   Thigukku   |    čigrku    |       |
 | calf (body) |  nakasunkak  | nakasunnkak  |       |
 |    foot     |    itugak    |    itrgak    |       |
 
@@ -66,18 +66,18 @@
 
 ### Animals
 
-|   Meaning    | Saniallautun | Qitsualuntun | Note. |
-| :----------: | :----------: | :----------: | :---: |
-|     deer     |    tuntu     | t&#7769;nntu |       |
-|     swan     |    qujuk     |    krjuk     |       |
-|    goose     |    lukkiq    | l&#7769;kkik |       |
-| killer whale |    aalluk    | &#7769;alluk |       |
-|   squirrel   |    siksik    |    siksik    |       |
-|     duck     |  akkanguliq  |  akkannulek  |       |
-|    whale     |    arpuq     |    arvuk     |       |
-|     dog      |    qimiq     |    kimik     |       |
-|     fish     |   ikkaluk    |   ikkaluk    |       |
-|     cat      |    qitsuk    |    kičuk     |       |
-|     cow      |     buu      |     vuu      |  Gr.  |
-|     cow      |   tuttubak   |      -       |       |
+|   Meaning    | Saniallautun |  Qitsualuntun   | Note. |
+| :----------: | :----------: | :-------------: | :---: |
+|     deer     |    tuntu     |  t&#7769;nntu   |       |
+|     swan     |    qujuk     |      krjuk      |       |
+|    goose     |    lukkiq    |   l&#7769;kik   |       |
+| killer whale |    aalluk    |  &#7769;alluk   |       |
+|   squirrel   |    siksik    |     siksik      |       |
+|     duck     |  akkanguliq  |    akannulek    |       |
+|    whale     |    arpuq     |      arvuk      |       |
+|     dog      |    qimiq     |      kimik      |       |
+|     fish     |   ikkaluk    |     ikaluk      |       |
+|     cat      |    qitsuk    |      kičuk      |       |
+|     cow      |     buu      |       vuu       |  Gr.  |
+|     cow      |   tuttubak   | t&#7769;nntubak |       |
 
