@@ -16,7 +16,7 @@ Work In Progress...
 
 <a href="https://lievrenard.github.io/LievRenard/Iripine/Introduction">Classical Iripine</a>
 
-<a href="https://lievrenard.github.io/LievRenard/Iripine/Introduction">Qitsualuntun (Ki&ccaron;ralunntun)</a>
+<a href="https://lievrenard.github.io/LievRenard/Qitsualuntun/Introduction">Qitsualuntun (Ki&ccaron;ralunntun)</a>
 
 
 
