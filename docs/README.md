@@ -14,14 +14,14 @@ Work In Progress...
 
 <a href="https://lievrenard.github.io/LievRenard/LCT/Introduction">Lingua Commun Tier&auml;</a>
 
-<a href="https://lievrenard.github.io/LievRenard/Iripine/Introduction">Iripine (WIP)</a>
+<a href="https://lievrenard.github.io/LievRenard/Iripine/Introduction">Classical Iripine</a>
+
+<a href="https://lievrenard.github.io/LievRenard/Iripine/Introduction">Qitsualuntun (Ki&ccaron;ralunntun)</a>
 
 
 
 ## Artificial Language Glossary
 
 
-
-<a href="https://lievrenard.github.io/LievRenard/Dictionaries/IripineGlossary">Iripine Glossary</a>
 
 <a href="https://planet-tail-592.notion.site/007ef583516f427daef004d9264a39a0?v=aec5e107569d48c1b428a51b1092982f">Qitsualuntun Dictionary</a>

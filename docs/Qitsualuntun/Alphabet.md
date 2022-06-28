@@ -26,7 +26,7 @@ Qitsualuntun 방언은 고전 이리프어(Saniallautun)와는 달리 라틴 문
 |        Gg        |           Ge           |           /ɢ/, /R/(gr)            |
 |        Hh        |           Ha           |                /h/                |
 |        Ii        |           I            |                /ɪ/                |
-|        Jj        |           Je           |                /j/                |
+|        Jj        |           Je           |                /j/, /ʒ/(외래어)                |
 |        Kk        |           Ka           |                /q/                |
 |        Ll        |          Ele           |           /l/, /ʟ/(ll)            |
 |        Mm        |          Eme           |                /m/                |
@@ -38,9 +38,9 @@ Qitsualuntun 방언은 고전 이리프어(Saniallautun)와는 달리 라틴 문
 |  &#7768;&#7769;  |        &#7768;a        |             /ʕ̞/, /ɑ/              |
 |        Ss        | Ese |                /s/                |
 | &Scaron;&scaron; |       E&scaron;e       |                /ʂ/                |
-|        Tt        |           Te           |           /t/, /t͡ɬ/(tl)           |
+|        Tt        |           Te           |           /t/, /t͡ʃ/(tž)           |
 |        Uu        |           U            |                /ʊ/                |
-|        Vv        |           Ve           |         /v/, /w/(외래어)          |
+|        Vv        |           Ve           |         /v/, /w/(자음 앞 모음 뒤, 외래어)         |
 |        Zz        |     &#7768;akin že     |                /z/                |
 |        Žž        |           Že           |                /ʐ/                |
 
