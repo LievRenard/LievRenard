@@ -8,7 +8,7 @@
 
 
 
-## Qitsualuntun Reference
+## Qitsualuntun Grammar Reference
 
 
 
@@ -21,6 +21,14 @@
    
 
 3. [Verb - Present](https://lievrenard.github.io/LievRenard/Qitsualuntun/Present)
+
+
+
+## Qitsualuntun Lecture
+
+
+
+1. [Kanuk atekakuti? 당신의 이름은 무엇입니까?](https://lievrenard.github.io/LievRenard/Qitsualuntun/Lecture/Chapter1)
 
 
 
