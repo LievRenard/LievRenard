@@ -34,7 +34,9 @@
 
 1. [Kanuk atekakuti? 당신의 이름은 무엇입니까?](https://lievrenard.github.io/LievRenard/Qitsualuntun/Lecture/Chapter1)
 
+   
 
+2. [Mana sunau'aa? 이것은 무엇입니까?](https://lievrenard.github.io/LievRenard/Qitsualuntun/Lecture/Chapter2)
 
 
 

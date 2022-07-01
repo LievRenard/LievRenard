@@ -149,8 +149,10 @@ Ua - ~이다
 
 이처럼 키츄아루이트어는 주어의 인칭과 수에 따라 접사가 달라지므로 주어를 종종 생략하곤 한다. 그러나 주어를 명확히 적어야 할 경우에는 주어를 ua 동사 덩어리 앞에 적어준다.
 
-- Rana airkešutiuaa. Rana는 선생님이다.
+- Rana airkešutiu'aa. Rana는 선생님이다.
 - Mana urvekuaa. 이것은 나무이다.
+
+<small>*Airkešuti처럼 모음으로 끝나는 동사에 uaa가 붙을때는 airkešutiu'aa처럼 u와 aa사이에 '를 넣어준다. 키츄아루이트어에서는 모음이 길게 오는 것을 별로 좋아하지 않기 때문이다.</small>
 
 
 
