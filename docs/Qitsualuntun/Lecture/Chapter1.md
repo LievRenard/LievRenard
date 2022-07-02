@@ -102,7 +102,7 @@ Ua - ~이다
 - Kanuk atekakuti? (이름이 무엇입니까?) - OOO atekaṙa. (제 이름은 ~입니다.) 또는 OOOuna. (저는 ~입니다.)
 - Sumeta minnṙakuti? (어디에서 오셨습니까?) - OOO minnṙaṙa. (저는 ~에서 왔습니다.) 또는 OOOmirtakuna. (저는 ~인입니다.)
 - Sunan sṙleakuti? (어떤 일을 하십니까?) - OOOuna. (저는 ~입니다.) 또는 OOO sṙleaṙa. (저는 ~일을 합니다.)
-- Kanuk ilikeikkakuti? (몇 살입니까?) - OOO ilikeikkaṙa. (저는 ~살입니다.) 
+- Kanuk ilikeikakuti? (몇 살입니까?) - OOO ilikeikkaṙa. (저는 ~살입니다.) 
 
 **<small>잘 보면 질문들은 kuti로 끝나고, 대답은 ṙa 또는 na로 끝나는 것을 볼 수 있다. 이것에 대해서는 뒤에서 살펴보도록 하자.</small>*
 

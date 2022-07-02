@@ -36,7 +36,7 @@
 
    
 
-2. [Mana sunau'aa? 이것은 무엇입니까?](https://lievrenard.github.io/LievRenard/Qitsualuntun/Lecture/Chapter2)
+2. [Mana sunaukuaa? 이것은 무엇입니까?](https://lievrenard.github.io/LievRenard/Qitsualuntun/Lecture/Chapter2)
 
 
 
