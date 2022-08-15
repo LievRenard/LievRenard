@@ -2,7 +2,7 @@
 
 
 
-현대 Qitsualuntun 방언은 고전 이리프어에 비해 문법이 상당히 간단화 되어있다. 명사 변화에서는 양수 변화가 사라지고, 격 의 갯수도 7개로 줄었다.
+키츄아루이트어는 고전 이리프어에 비해 문법이 상당히 간단화 되어있다. 격의 갯수는 7개로 줄었으며 복잡한 자음변화 규칙도 사라졌다.
 
 
 
@@ -23,7 +23,7 @@
 |      Gen.      |     -n     |
 |      Loc.      |    -sa     |
 |      Abl.      |    -ta     |
-|     Pro.*      |    -kuu    |
+|     Pro.*      |    -kuv    |
 |      Equ.      |    -tun    |
 
 
@@ -34,7 +34,7 @@
 
 ex) siku (얼음)
 
-→ siku / sikun / sikusa / sikuta / sikukuu / sikutun
+→ siku / sikun / sikusa / sikuta / sikukuv / sikutun
 
 
 
@@ -53,37 +53,39 @@ ex) siku (얼음)
 |      Gen.      |  -#-&#7769;  |  -#-&#7769;  |      -n      |
 |      Loc.      | -#-&scaron;a | -#-&scaron;a |     -ža      |
 |      Abl.      |    -#-ta     | -&#7769;-ta  |     -nta     |
-|      Pro.      |     -kuu     |     -ruu     |     -nuu     |
+|      Pro.      |   -#-gruv    |     -ruv     |     -nuv     |
 |      Equ.      |    -#-tun    | -&#7769;-tun |    -ntun     |
 
 
 
 ex) kimik (개)
 
-→ kimik / kimi&#7769;t / kimi&#7769; / kimi&scaron;a / kimita / kimikkuu / kimitun
+→ kimik / kimi&#7769;t / kimi&#7769; / kimi&scaron;a / kimita / kimigruv / kimitun
 
 
 
 ex) sitar (오래된, 낡은)
 
-→ sitar / sita&#7769;t / sita&#7769; / sita&scaron;a / sita&#7769;ta / sitarruu / sita&#7769;tun
+→ sitar / sita&#7769;t / sita&#7769; / sita&scaron;a / sita&#7769;ta / sitarruv / sita&#7769;tun
 
 
 
 ex) anglijatun (영어)
 
-→ anglijatun / anglijatumm&#7769;t / anglijatunn / anglijatunža / anglijatunnta / anglijatunnuu / anglijatunntun
+→ anglijatun / anglijatumm&#7769;t / anglijatunn / anglijatunža / anglijatunnta / anglijatunnuv / anglijatunntun
 
 
 
-## Plural
+## Dual & Plural
 
 
 
-복수형은 어미 끝의 자음을 제거한 후 -it를 붙인다. 복수의 격변화시에는 -iti의 형태로 약변화한다.
+키츄아루이트어에는 단수와 양수, 복수의 세가지 수가 있다. 단수는 한 개, 양수는 두 개의 사물이나 사람에 사용하며, 복수는 세 개 이상의 사물이나 사람에 사용한다. 양수형은 어미 끝의 자음을 제거한 뒤, 마지막 모음을 장음으로 만들고 -k를 붙인다. 복수형은 어미 끝의 자음을 제거한 후 -it를 붙인다. 양수가 격변화할 때는 -k를 -n으로 바꾸고, 복수의 격변화시에는 -iti의 형태로 약변화한다.
 
 
 
-ex) inuk (사람) → inuit (사람들)
+ex) inuk (사람) → inujik (두 사람) → inuit (사람들)
 
-→ inuit / inuitin / inuitisa / inuitita / inuitikuu / inuititun
+→ inujik / inujimm&#7769;t / inujinn / inujinža / inujinnta / inujinnuv / inujinntun
+
+→ inuit / inuitim&#7769;t / inuitin / inuitisa / inuitita / inuitikuv / inuititun
