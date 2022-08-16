@@ -42,6 +42,10 @@
 
 2. [Mana sunaukuaa? 이것은 무엇입니까?](https://lievrenard.github.io/LievRenard/Qitsualuntun/Lecture/Chapter2)
 
+   
+
+3. [Sumemunnakuti? 어디로 가십니까?](https://lievrenard.github.io/LievRenard/Qitsualuntun/Lecture/Chapter3)
+
 
 
 ## Kičralunntun Dictionary
