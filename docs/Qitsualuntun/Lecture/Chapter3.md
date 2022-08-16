@@ -103,7 +103,7 @@ n으로 끝나는 명사의  경우에는 동사의 m이 n으로 변한다
 
 > A: Mana asrtukuaa? 이것은 꽃입니까?
 >
-> B: Ja, mana asrtukuaa. 네, 이것은 꽃입니다.
+> B: Ja, mana asrtuaa. 네, 이것은 꽃입니다.
 
 > A: Agrramunnakuti? 당신은 시장에 갑니까?
 >

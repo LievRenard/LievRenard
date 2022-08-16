@@ -32,7 +32,7 @@
 
 
 
-## Kičralunntun Lecture
+## Kičralunntun Lesson
 
 
 
