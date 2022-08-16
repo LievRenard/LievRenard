@@ -8,11 +8,9 @@
 
 ### Number
 
-|        | Affix |
-| ------ | ----- |
-| Sg.    | \-    |
-| Dual.  | \-=k* |
-| Pl.    | \-it  |
+| Sg.  | Dual. | Pl.  |
+| :--: | :---: | :--: |
+|  -   | \-=k* | \-it |
 
 *= → doubling proceeded vowel
 
@@ -22,15 +20,15 @@
 
 **Soft Declension (-V, -t)**
 
-| Case        | Affix |
-| ----------- | ----- |
-| Dir.        | \-    |
-| Gen.        | \-n   |
-| Dat.        | \-mṙt |
-| Loc.        | \-sa  |
-| Abl.        | \-ta  |
+|    Case     | Affix |
+| :---------: | :---: |
+|    Dir.     |  \-   |
+|    Gen.     |  \-n  |
+|    Dat.     | \-mṙt |
+|    Loc.     | \-sa  |
+|    Abl.     | \-ta  |
 | Pro.(Inst.) | \-kuv |
-| Equ.        | \-tun |
+|    Equ.     | \-tun |
 
 
 
@@ -38,52 +36,51 @@
 
 \-k nouns
 
-| Case        | Affix    |
-| ----------- | -------- |
-| Dir.        | \-       |
-| Gen.        | \-#-ṙ    |
-| Dat.        | \-ṙ-t    |
-| Loc.        | \-ša     |
-| Abl.        | \-#-ta   |
+|    Case     |  Affix   |
+| :---------: | :------: |
+|    Dir.     |    \-    |
+|    Gen.     |  \-#-ṙ   |
+|    Dat.     |  \-ṙ-t   |
+|    Loc.     |   \-ša   |
+|    Abl.     |  \-#-ta  |
 | Pro.(Inst.) | \-#-gruv |
-| Equ.        | \-#-tun  |
+|    Equ.     | \-#-tun  |
 
 
 
 -r nouns
 
-| Case        | Affix   |
-| ----------- | ------- |
-| Dir.        | \-      |
-| Gen.        | \-#-ṙ   |
-| Dat.        | \-ṙ-t   |
-| Loc.        | \-ša    |
-| Abl.        | \-ṙ-ta  |
-| Pro.(Inst.) | \-ruv   |
-| Equ.        | \-ṙ-tun |
+|    Case     |  Affix  |
+| :---------: | :-----: |
+|    Dir.     |   \-    |
+|    Gen.     |  \-#-ṙ  |
+|    Dat.     |  \-ṙ-t  |
+|    Loc.     |  \-ša   |
+|    Abl.     | \-ṙ-ta  |
+| Pro.(Inst.) |  \-ruv  |
+|    Equ.     | \-ṙ-tun |
 
 
 
 -n nouns
 
-| Case        | Affix   |
-| ----------- | ------- |
-| Dir.        | \-      |
-| Gen.        | \-n     |
-| Dat.        | \-m-mṙt |
-| Loc.        | \-ža    |
-| Abl.        | \-nta   |
-| Pro.(Inst.) | \-nuv   |
-| Equ.        | \-ntun  |
+|    Case     |  Affix  |
+| :---------: | :-----: |
+|    Dir.     |   \-    |
+|    Gen.     |   \-n   |
+|    Dat.     | \-m-mṙt |
+|    Loc.     |  \-ža   |
+|    Abl.     |  \-nta  |
+| Pro.(Inst.) |  \-nuv  |
+|    Equ.     | \-ntun  |
 
 
 
 Dual & plural
 
-|      | Affix       |
-| ---- | ----------- |
-| Dual | \-=k → -=n  |
-| Pl.  | \-it → -iti |
+|    Dual    |     Pl.     |
+| :--------: | :---------: |
+| \-=k → -=n | \-it → -iti |
 
 
 
@@ -95,23 +92,21 @@ Dual & plural
 
 ### Personal Pronouns
 
-|     | Pronoun |
-| --- | ------- |
-| 1st | vi      |
-| 2nd | illi    |
-| 3rd | tṙana   |
+| 1st  | 2nd  |  3rd  |
+| :--: | :--: | :---: |
+|  vi  | illi | tṙana |
 
 
 
 ### Directional Pronouns
 
-|                   | Pronoun |
-| ----------------- | ------- |
-| This (very close) | ṙna     |
-| This              | mana    |
-| That              | tamana  |
-| That (very far)   | taika   |
-| It                | tṙana   |
+|     Distance      | Pronoun |
+| :---------------: | :-----: |
+| This (very close) |   ṙna   |
+|       This        |  mana   |
+|       That        | tamana  |
+|  That (very far)  |  taika  |
+|        It         |  tṙana  |
 
 
 
@@ -119,11 +114,12 @@ Dual & plural
 
 by possesor, -#- for hard declension
 
+|         | Affix |
+| :-----: | :---: |
 | 1st sg. | \-ga  |
-| ------- | ----- |
 | 1st pl. | \-ka  |
-| 2nd     | \-si  |
-| 3rd     | \-nža |
+|   2nd   | \-si  |
+|   3rd   | \-nža |
 
 
 
@@ -137,53 +133,32 @@ by possesor, -#- for hard declension
 
 Agreement with subject
 
-| 1st sg. | \-na  |
-| ------- | ----- |
-| 2nd sg. | \-ti  |
-| 3rd sg. | \-aa* |
-| 1st pl. | \-ma  |
-| 2nd pl. | \-či  |
-| 3rd pl. | \-va  |
+|         | 1st  | 2nd  |  3rd  |
+| :-----: | :--: | :--: | :---: |
+| **sg.** | \-na | \-ti | \-aa* |
+| **pl.** | \-ma | \-či | \-va  |
 
-*-a proceeding after long vowel
+*-a proceeding after long vowel, samely applied in hard declension
 
 
 
 **Hard declension**
 
-\-k verbs
+\-k / -r verbs
 
-| 1st sg. | \-#-ṙa |
-| ------- | ------ |
-| 2nd sg. | \-ṙ-ti |
-| 3rd sg. | \-aa   |
-| 1st pl. | \-ma   |
-| 2nd pl. | \-či   |
-| 3rd pl. | \-va   |
-
-
-
--r verbs
-
-| 1st sg. | \-#-ṙa |
-| ------- | ------ |
-| 2nd sg. | \-ṙ-ti |
-| 3rd sg. | \-aa   |
-| 1st pl. | \-ma   |
-| 2nd pl. | \-či   |
-| 3rd pl. | \-va   |
+|         |  1st   |  2nd   | 3rd  |
+| :-----: | :----: | :----: | :--: |
+| **sg.** | \-#-ṙa | \-ṙ-ti | \-aa |
+| **pl.** |  \-ma  |  \-či  | \-va |
 
 
 
 -n verbs
 
-| 1st sg. | \-na   |
-| ------- | ------ |
-| 2nd sg. | \-nti  |
-| 3rd sg. | \-aa   |
-| 1st pl. | \-m-ma |
-| 2nd pl. | \-či   |
-| 3rd pl. | \-nva  |
+|         |  1st   |  2nd  |  3rd  |
+| :-----: | :----: | :---: | :---: |
+| **sg.** |  \-na  | \-nti | \-aa  |
+| **pl.** | \-m-ma | \-či  | \-nva |
 
 
 
@@ -191,13 +166,10 @@ Agreement with subject
 
 Agreement with object
 
-| 1st sg. | \-jann-  |
-| ------- | -------- |
-| 2nd sg. | \-jagi-  |
-| 3rd sg. | \-jara-  |
-| 1st pl. | \-jati-  |
-| 2nd pl. | \-jassi- |
-| 3rd pl. | \-jaka-  |
+|         |   1st   |   2nd    |   3rd   |
+| :-----: | :-----: | :------: | :-----: |
+| **sg.** | \-jann- | \-jagi-  | \-jara- |
+| **pl.** | \-jati- | \-jassi- | \-jaka- |
 
 
 
@@ -205,25 +177,19 @@ Agreement with object
 
 -k/-r verbs
 
-| 1st sg. | \-g-rann-  |
-| ------- | ---------- |
-| 2nd sg. | \-g-ragi-  |
-| 3rd sg. | \-g-rara-  |
-| 1st pl. | \-g-rati-  |
-| 2nd pl. | \-g-rassi- |
-| 3rd pl. | \-g-raka-  |
+|         |    1st    |    2nd     |    3rd    |
+| :-----: | :-------: | :--------: | :-------: |
+| **sg.** | \-g-rann- | \-g-ragi-  | \-g-rara- |
+| **pl.** | \-g-rati- | \-g-rassi- | \-g-raka- |
 
 
 
 \-n verbs
 
-| 1st sg. | \-ntann-  |
-| ------- | --------- |
-| 2nd sg. | \-ntagi-  |
-| 3rd sg. | \-ntara-  |
-| 1st pl. | \-ntati-  |
-| 2nd pl. | \-ntassi- |
-| 3rd pl. | \-ntaka-  |
+|         |   1st    |    2nd    |   3rd    |
+| :-----: | :------: | :-------: | :------: |
+| **sg.** | \-ntann- | \-ntagi-  | \-ntara- |
+| **pl.** | \-ntati- | \-ntassi- | \-ntaka- |
 
 
 
@@ -231,21 +197,22 @@ Agreement with object
 
 \-#- for hard declension
 
-| Past                | \-lar-    |
-| ------------------- | --------- |
+|        Tense        |   Affix   |
+| :-----------------: | :-------: |
+|        Past         |  \-lar-   |
 | Past (a moment ago) | \-ratṙar- |
-| Present             | \-        |
-| Future (soon)       | \-lanna-  |
-| Future              | \-ne-     |
-| Future (someday)    | \-lṙak-   |
+|       Present       |    \-     |
+|    Future (soon)    | \-lanna-  |
+|       Future        |   \-ne-   |
+|  Future (someday)   |  \-lṙak-  |
 
 
 
 ### Aspect
 
-| Imperfective | \-       |
-| ------------ | -------- |
-| Perfective   | \-sema-* |
+| Imperfect | Perfect  |
+| :-------: | :------: |
+|     -     | \-sema-* |
 
 *-#- for hard declension & -šema- for -k/-r verbs
 
@@ -253,25 +220,27 @@ Agreement with object
 
 ### Voice
 
-| Active      | S(dir.) + O(dir.) + V(dbl. ending) |
-| ----------- | ---------------------------------- |
+|    Voice    |                                    |
+| :---------: | :--------------------------------: |
+|   Active    | S(dir.) + O(dir.) + V(dbl. ending) |
 | Antipassive | S(dir.) + O(pro.) + V(sg. ending)  |
-| Reflexive   | S(dir.) + V(sg. ending)            |
+|  Reflexive  |      S(dir.) + V(sg. ending)       |
 
 
 
 ### Mood
 
-| Indicative     | \-                             |
-| -------------- | ------------------------------ |
-| Interrogative  | \-#-ku-                        |
-| Imperative     | \-ki / -nak(neg.) / -kuvn(3rd) |
-| Optative       | \-#-lla                        |
-| Conditional    | \-esi-                         |
-| Causative      | \-ga- / -#-ra-(k,r) / -na-(n)  |
-| Dubitative     | \-la-                          |
-| Contemporative | \-lu-                          |
-| Participal     | \-gi- / -#-ri-(k,r) / -ni-(n)  |
+|      Mood      |             Affix              |
+| :------------: | :----------------------------: |
+|   Indicative   |               \-               |
+| Interrogative  |            \-#-ku-             |
+|   Imperative   | \-ki / -nak(neg.) / -kuvn(3rd) |
+|    Optative    |            \-#-lla             |
+|  Conditional   |             \-esi-             |
+|   Causative    | \-ga- / -#-ra-(k,r) / -na-(n)  |
+|   Dubitative   |             \-la-              |
+| Contemporative |             \-lu-              |
+|   Participal   | \-gi- / -#-ri-(k,r) / -ni-(n)  |
 
 *negative → -#-je-
 
@@ -279,9 +248,9 @@ Agreement with object
 
 ### Non-Finite Verb Form
 
-| Infinitive | \-a     |
-| ---------- | ------- |
-| Supine     | \-#-vat |
+| Infinitive | Supine  |
+| :--------: | :-----: |
+|     -a     | \-#-vat |
 
 
 
@@ -321,33 +290,31 @@ Attributive → Noun declension
 
 Predicative → Verb declension
 
-| \-(vowel) | \-# + affix |
-| --------- | ----------- |
-| \-k / -r  | \-r + affix |
-| \-t / -n  | \-n + affix |
+|  \-(vowel)  |  \-k / -r   |  \-t / -n   |
+| :---------: | :---------: | :---------: |
+| \-# + affix | \-r + affix | \-n + affix |
 
 
 
 ### Comperative
 
-| Affix    | \-nišar (+ua) |
-| -------- | ------------- |
-| Modifier | ameči         |
+|     Affix     | Modifier word |
+| :-----------: | :-----------: |
+| \-nišar (+ua) |     ameči     |
 
 
 
 ### Superative
 
-| Affix    | \-lṙar (+ua) |
-| -------- | ------------ |
-| Modifier | selleči      |
+|    Affix     | Modifier word |
+| :----------: | :-----------: |
+| \-lṙar (+ua) |    selleči    |
 
 
 
 ### Adverb
 
-| Adverb      | (declension form)-či |
-| ----------- | -------------------- |
-| Comperative | ameči + adv.         |
-| Superative  | selleči + adv.       |
+|        Adverb        | Comperative  |   Superative   |
+| :------------------: | :----------: | :------------: |
+| (declension form)-či | ameči + adv. | selleči + adv. |
 
