@@ -8,10 +8,11 @@
 
 ### Number
 
-| Sg.   | \-    |
-| ----- | ----- |
-| Dual. | \-=k* |
-| Pl.   | \-it  |
+|        | Affix |
+| ------ | ----- |
+| Sg.    | \-    |
+| Dual.  | \-=k* |
+| Pl.    | \-it  |
 
 *= → doubling proceeded vowel
 
@@ -21,8 +22,9 @@
 
 **Soft Declension (-V, -t)**
 
-| Dir.        | \-    |
+| Case        | Affix |
 | ----------- | ----- |
+| Dir.        | \-    |
 | Gen.        | \-n   |
 | Dat.        | \-mṙt |
 | Loc.        | \-sa  |
@@ -36,8 +38,9 @@
 
 \-k nouns
 
-| Dir.        | \-       |
+| Case        | Affix    |
 | ----------- | -------- |
+| Dir.        | \-       |
 | Gen.        | \-#-ṙ    |
 | Dat.        | \-ṙ-t    |
 | Loc.        | \-ša     |
@@ -49,8 +52,9 @@
 
 -r nouns
 
-| Dir.        | \-      |
+| Case        | Affix   |
 | ----------- | ------- |
+| Dir.        | \-      |
 | Gen.        | \-#-ṙ   |
 | Dat.        | \-ṙ-t   |
 | Loc.        | \-ša    |
@@ -62,8 +66,9 @@
 
 -n nouns
 
-| Dir.        | \-      |
+| Case        | Affix   |
 | ----------- | ------- |
+| Dir.        | \-      |
 | Gen.        | \-n     |
 | Dat.        | \-m-mṙt |
 | Loc.        | \-ža    |
@@ -75,8 +80,9 @@
 
 Dual & plural
 
-| Dual | \-=k → -=n  |
+|      | Affix       |
 | ---- | ----------- |
+| Dual | \-=k → -=n  |
 | Pl.  | \-it → -iti |
 
 
@@ -89,21 +95,23 @@ Dual & plural
 
 ### Personal Pronouns
 
-| 1st | vi    |
-| --- | ----- |
-| 2nd | illi  |
-| 3rd | tṙana |
+|     | Pronoun |
+| --- | ------- |
+| 1st | vi      |
+| 2nd | illi    |
+| 3rd | tṙana   |
 
 
 
 ### Directional Pronouns
 
-| This (very close) | ṙna    |
-| ----------------- | ------ |
-| This              | mana   |
-| That              | tamana |
-| That (very far)   | taika  |
-| It                | tṙana  |
+|                   | Pronoun |
+| ----------------- | ------- |
+| This (very close) | ṙna     |
+| This              | mana    |
+| That              | tamana  |
+| That (very far)   | taika   |
+| It                | tṙana   |
 
 
 
