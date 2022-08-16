@@ -41,7 +41,7 @@
 |    Dir.     |    \-    |
 |    Gen.     |  \-#-ṙ   |
 |    Dat.     |  \-ṙ-t   |
-|    Loc.     |   \-ša   |
+|    Loc.     |  \-#-ša  |
 |    Abl.     |  \-#-ta  |
 | Pro.(Inst.) | \-#-gruv |
 |    Equ.     | \-#-tun  |
@@ -55,7 +55,7 @@
 |    Dir.     |   \-    |
 |    Gen.     |  \-#-ṙ  |
 |    Dat.     |  \-ṙ-t  |
-|    Loc.     |  \-ša   |
+|    Loc.     | \-#-ša  |
 |    Abl.     | \-ṙ-ta  |
 | Pro.(Inst.) |  \-ruv  |
 |    Equ.     | \-ṙ-tun |

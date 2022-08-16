@@ -16,9 +16,9 @@
 >
 > B: Pierre atekaṙa.
 >
-> A: Sumeta minnṙakuti?
+> A: Sumeminnṙakuti?
 >
-> B: Francijata minnṙaṙa. Parisa efina.
+> B: Francijaminnṙaṙa. Parisa efina.
 >
 > A: Sunan sṙleakuti?
 >
@@ -60,7 +60,7 @@ Atekagra - 이름이 ~이다
 
 Sumeta - 어디에서
 
-Minnṙara - 오다
+Minnṙaka - 오다
 
 Francija - 프랑스
 
@@ -100,7 +100,7 @@ Ua - ~이다
 키츄아루이트어로 자신의 이름을 말할때는 atekagra(이름이 ~이다) 동사를 사용해서 '(이름) + atekaṙa'의 꼴로 나타낸다. 반대로 상대의 이름을 물어볼 때는 'Kanuk atekakuti?'라고 물어본다. 이와 비슷하게 국적, 직업, 나이를 묻고 답하는 것은 아래처럼 한다.
 
 - Kanuk atekakuti? (이름이 무엇입니까?) - OOO atekaṙa. (제 이름은 ~입니다.) 또는 OOOuna. (저는 ~입니다.)
-- Sumeta minnṙakuti? (어디에서 오셨습니까?) - OOO minnṙaṙa. (저는 ~에서 왔습니다.) 또는 OOOmirtakuna. (저는 ~인입니다.)
+- Sumeminnṙakuti? (어디에서 오셨습니까?) - OOOminnṙaṙa. (저는 ~에서 왔습니다.) 또는 OOOmirtakuna. (저는 ~인입니다.)
 - Sunan sṙleakuti? (어떤 일을 하십니까?) - OOOuna. (저는 ~입니다.) 또는 OOO sṙleaṙa. (저는 ~일을 합니다.)
 - Kanuk ilikeikakuti? (몇 살입니까?) - OOO ilikeikkaṙa. (저는 ~살입니다.) 
 
